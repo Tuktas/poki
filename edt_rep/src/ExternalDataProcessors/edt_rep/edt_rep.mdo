@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9424f766-7fef-49e0-97af-f920e41e7472">
+  <producedTypes>
+    <objectType typeId="72ad9ca0-d88d-4ed6-8c18-ef0cacc14ec0" valueTypeId="9111c539-1ca5-4bc3-aa9c-697da4465c7c"/>
+  </producedTypes>
+  <name>edt_rep</name>
+  <synonym>
+    <key>ru</key>
+    <value>Edt rep</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="d735a3c1-d5f5-473d-9c38-f323f4cf43b8"/>
+</mdclass:ExternalDataProcessor>
